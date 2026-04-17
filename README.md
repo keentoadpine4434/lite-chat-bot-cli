@@ -1,2 +1,9 @@
-# lite-chat-bot-cli
-A simple chat bot project
+# Chat Bot
+
+A simple chat bot project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
